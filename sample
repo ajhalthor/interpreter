@@ -1,0 +1,12 @@
+int f = 4;
+char p='c';
+struct ss{
+	int gg;
+	float ww;
+}aaaa,bb,cc,ff;
+int ddd = 77,d;
+char c[8];
+int feg[9];
+void man(int,int);
+int x;
+int manY;
